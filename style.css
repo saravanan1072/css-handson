@@ -1,0 +1,146 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    border: 7px solid greenyellow;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://tse1.mm.bing.net/th/id/OIP.IKUSf-TyJIAjCjci20RaIAHaFc?w=225&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7);
+   
+   
+}
+
+.first{
+    padding: 10px;
+    border: 5px solid tomato;
+    background-color: black;
+    margin-top: 10px;
+    height: 100px;
+    width: 250px;
+    color: white;
+    font-size: 30px;
+    border-radius: 30px;
+   display: inline-block;
+
+}
+.second{
+    padding: 20px;
+    border: 5px solid tomato;
+    background-color: black;
+    margin-left: -70px;
+    display: inline-block;
+    
+    width: 400px;
+    color: white;
+    font-size: 30px;
+    border-radius: 40px;
+
+}
+.third{
+    padding: 20px;
+    border: 5px solid tomato;
+    background-color: black;
+    margin-left: 100px;
+    margin-top: 30px;
+    height: 100px;
+    width: 300px;
+    color: white;
+    font-size: 30px;
+    border-radius: 30px;
+    display: inline-block;
+   
+}
+.fouth{
+    padding: 20px;
+    border: 5px solid tomato;
+    background-color: black;
+    margin-top: 10px;
+    margin-left: 500px;
+    height: 50px;
+    text-align: center;
+    width: 400px;
+    color: white;
+    font-size: 30px;
+    border-radius: 30px;
+   display: inline-block;
+
+}
+.fifth{
+    height: 220px;
+    width: 300px;
+    background-color: aqua;
+    border: 3px solid green;
+    margin: 50px;
+    color: blue;
+    border-radius: 30px;
+    display: inline-block;
+    text-align: center;
+
+}
+h2{
+    padding: 15px;
+}
+ul{
+    /* list-style-position: inside; */
+    /* margin: 0px; */
+    padding: 3px;
+    margin-left: 15px;
+}
+
+ 
+  
+
+
+
+
+
+
+
+.circle1{
+    height: 300px;
+    margin-top: -200px;
+    width: 300px;
+    color: black;
+    background-color: rgb(23, 189, 215);
+    border: 5px solid gray;
+    border-radius: 200px;
+    display: inline-block;
+    flex-flow: column wrap;
+    align-items: center;
+    align-content: center;
+
+}
+.circle2{
+    /* padding: 30px; */
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-bottom: 20px;
+}
+.circle3{
+    padding: 20px;
+    margin-left: 20px;
+}
+.circle4{
+    padding: 20px;
+    margin-left: 20px;
+}
+.h1{
+    width: 275px;
+    margin-left: 12px;
+}
+.h2{
+    width: 300px;
+    
+}
+form{
+    width: 400px;
+    height: 600px;
+    margin-left: 250px;
+    /* margin-top: 200px; */
+    background-color: white;
+    color: rgb(254, 63, 63);
+    display: inline-block;
+    border: 5px dotted red;
+}
